@@ -9,6 +9,10 @@ djangorestframework = "*"
 djangorestframework-simplejwt = "*"
 pillow = "*"
 django-cors-headers = "*"
+gunicorn = "*"
+python-decouple = "*"
+whitenoise = "*"
+dj-database-url = "*"
 
 [dev-packages]
 
